@@ -12,17 +12,17 @@ _Columbia Data Analytics Boot Camp_ - Module 19 - Neural Networks and Deep Learn
 - How to save trained TensorFlow models for later use.
 
 ## Process and Results:
-_Step 1 Data Pre-processing_ :
+__Step__ _1 Data Pre-processing_ :
 * Review the names and types of data,
 * Drop unnecessary columns,
 * Prepare the data for Step 2.
 
-_Step 2: Compiling, training, and evaluation of the model_ :
+__Step 2__ _Compiling, training, and evaluation of the model_ :
 * Compiled the data,
 * Trained the model,
 * Printed the performance. 
 
-_Step 3: Optimization of the model_ :
+__Step 3__ _Optimization of the model_ :
 * Review the performance printed from step 2,
 * Make changes,
 * Rerun.
