@@ -28,8 +28,10 @@ __Step 3__ _Optimization of the model_ :
 * Rerun.
 
 ## Summary:
-2nd model - Accuracy was 46%.
-3rd model - Accuracy was 73%.
-4th model - Accuracy was 72.7%. 
+| Model Name | Accuracy Performance |
+| ----------- |-|
+| 2nd model | 46% |
+| 3rd model | 73% |
+| 4th model | 72.7% | 
 
 The model did not achieve the target model performance of 75%. The 3rd and fourth models were the closest, yet they did not achieve the target result. I had a hard time figuring out which variables were affecting the neural model. I believe with some more time and different reading, I could write a program that achieved the target model performance metric.
