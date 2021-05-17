@@ -13,8 +13,9 @@ _Columbia Data Analytics Boot Camp_ - Module 19 - Neural Networks and Deep Learn
 
 ## Process and Results:
 _Step 1: Data Pre-processing_
-* The names of the variables considered for this project from the data set are 'IS_SUCCESSFUL', ' APPLICATION_TYPE', 'AFFILIATION', 'CLASSIFICATION', 'USE_CASE', 'ORGANIZATION', 'STATUS', 'INCOME_AMT', 'SPECIAL_CONSIDERATION', and 'ASK_AMT'. 
-* Because the variables listed above are not the focus of the study or features within the NAME and EIN columns for this test, I removed them from the data as seen in the 'AlphabetSoupCharity.pynb' file.
+* Review the names and types of data,
+* Drop unnecessary columns,
+* Prepare the data for Step 2.
 
 Step 2: Compiling, training, and evaluation of the model
 * Compiled the data,
