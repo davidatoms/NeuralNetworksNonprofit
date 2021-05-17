@@ -12,17 +12,17 @@ _Columbia Data Analytics Boot Camp_ - Module 19 - Neural Networks and Deep Learn
 - How to save trained TensorFlow models for later use.
 
 ## Process and Results:
-__Step__ _1 Data Pre-processing_ :
+__Step 1 Data Pre-Processing__ :
 * Review the names and types of data,
 * Drop unnecessary columns,
 * Prepare the data for Step 2.
 
-__Step 2__ _Compiling, training, and evaluation of the model_ :
+__Step 2 Compiling, Training, and Evaluating the Model__ :
 * Compiled the data,
 * Trained the model,
 * Printed the performance. 
 
-__Step 3__ _Optimization of the model_ :
+__Step 3 Optimization of the model__ :
 * Review the performance printed from step 2,
 * Make changes,
 * Rerun.
@@ -30,8 +30,8 @@ __Step 3__ _Optimization of the model_ :
 ## Summary:
 | Model Name | Accuracy Performance |
 | ----------- |-|
-| 2nd model | 46% |
-| 3rd model | 73% |
-| 4th model | 72.7% | 
+| 2 | 46% |
+| 3 | 73% |
+| 4 | 72.7% | 
 
 The model did not achieve the target model performance of 75%. The 3rd and fourth models were the closest, yet they did not achieve the target result. I had a hard time figuring out which variables were affecting the neural model. I believe with some more time and different reading, I could write a program that achieved the target model performance metric.
